@@ -1,0 +1,15 @@
+{
+  "name": "dropbox-update",
+  "version": "1.0.0",
+  "description": "CLI Script to backup & update files to Dropbox",
+  "main": "dropbox-update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Torres",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "dropbox": "^2.5.2"
+  }
+}
